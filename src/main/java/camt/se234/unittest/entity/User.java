@@ -58,4 +58,8 @@ public class User {
     public LocalDate getDateOfBirth() {
         return dateOfBirth;
     }
+
+    public String getName() {
+        return name;
+    }
 }
